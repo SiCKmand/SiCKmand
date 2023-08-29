@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sourav Singh</h1>
 <h3 align="center">A curious soul from India.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sickmand&label=Profile%20views&color=0e75b6&style=flat" alt="sickmand" /> </p>
-
 - 🌱 I’m currently learning **C++ & little bit about M.L./A.I.**
 
 - 📫 How to reach me **unrefined_riveter395@simplelogin.com**
