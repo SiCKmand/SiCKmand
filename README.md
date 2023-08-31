@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **C++ & little bit about M.L./A.I.**
 
-- 📫 How to reach me **unrefined_riveter395@simplelogin.com**
+- 📫 How to reach me: **unrefined_riveter395@simplelogin.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
